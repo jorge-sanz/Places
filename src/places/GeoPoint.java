@@ -1,5 +1,10 @@
 package places;
 
+/**
+ * GeoPoint is a class which represents a location point on the Earth.
+ *
+ * @author Jorge Sanz Perez
+ */
 public class GeoPoint {
 	private double longitude, latitude;
 	

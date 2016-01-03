@@ -3,6 +3,12 @@ package places;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Places is a class which represents an List of Places and it implements
+ * methods to manage that list.
+ *
+ * @author Jorge Sanz Perez
+ */
 public class Places {
 	protected static List<Place> placesVector = placesExample();
 	

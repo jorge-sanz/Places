@@ -1,5 +1,10 @@
 package places;
 
+/**
+ * Place is a class which represents any place you can visit.
+ *
+ * @author Jorge Sanz Perez
+ */
 public class Place {
 	private String name;
 	private String address;
